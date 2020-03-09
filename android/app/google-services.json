@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345024475346",
+    "firebase_url": "https://tcrwa-login.firebaseio.com",
+    "project_id": "tcrwa-login",
+    "storage_bucket": "tcrwa-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345024475346:android:63b0769e351b0afe1bfd0b",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345024475346-vt5u2kcv3olqqko6rv54d641e6iofj0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwU3SkzI9osyWa_2btjVA7orzmr1W5TOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345024475346-vt5u2kcv3olqqko6rv54d641e6iofj0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
