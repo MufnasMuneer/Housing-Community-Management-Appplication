@@ -1,1 +1,1 @@
-#Residential Association Management Application
+Residential Association Management Application
