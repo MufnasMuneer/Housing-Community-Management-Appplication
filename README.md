@@ -1,1 +1,1 @@
-# mufnas
+#Residential Association Management Application
